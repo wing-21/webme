@@ -1,0 +1,52 @@
+[
+    {
+        "name": "E-office",
+        "image": "img\/e-office.JPG",
+        "link": "https:\/\/e-office.unhas.ac.id\/index.php\/home"
+    },
+    {
+        "name": "Website Keperawatan",
+        "image": "img\/nursing.JPG",
+        "link": "https:\/\/nursing.unhas.ac.id\/logintomysite"
+    },
+    {
+        "name": "Icon Journal",
+        "image": "img\/icon.JPG",
+        "link": "https:\/\/journal.unhas.ac.id\/index.php\/icon"
+    },
+    {
+        "name": "Backoffice Unhas",
+        "image": "img\/1728523629_backoffice.JPG",
+        "link": "https:\/\/backoffice.neosia.unhas.ac.id"
+    },
+    {
+        "name": "Feeder Unhas",
+        "image": "img\/1728523721_feedr.JPG",
+        "link": "https:\/\/feeder.unhas.ac.id\/index.php\/login\/logout"
+    },
+    {
+        "name": "SKP Unhas",
+        "image": "img\/1728523800_skp.JPG",
+        "link": "https:\/\/skp.sdm.kemdikbud.go.id\/skp\/site\/login.jsp"
+    },
+    {
+        "name": "Ruang Baca Keperawatan",
+        "image": "img\/1728524195_ruang baca.JPG",
+        "link": "http:\/\/25.0.124.136\/ruangbaca\/login.php"
+    },
+    {
+        "name": "Uji Kompetensi D3",
+        "image": "img\/1728524307_ukom.JPG",
+        "link": "https:\/\/ukperawat.kemdikbud.go.id\/login"
+    },
+    {
+        "name": "Website Webmeid",
+        "image": "img\/1728526158_web.JPG",
+        "link": "https:\/\/webmeid.com\/wp-login.php?redirect_to=https%3A%2F%2Fwebmeid.com%2Fwp-admin%2F&reauth=1"
+    },
+    {
+        "name": "INAPROC",
+        "image": "img\/1728603973_ino.JPG",
+        "link": "https:\/\/akun.inaproc.id\/"
+    }
+]
